@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**vermaabhii/vermaabhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const abhishek = {
+  role: "Front-End Architect in Training",
+  skills: ["HTML", "CSS", "JavaScript", "Git", "Responsive Design"],
+  currentFocus: {
+    learning: ["JavaScript", "Git", "Web Accessibility"],
+    mission: "Turning ideas into interactive, accessible experiences",
+  },
+  projects: "Experimenting, learning, and growing",
+  tools: ["GitHub", "Visual Studio Code", "Brain in Debug Mode"],
+  goal: "Crafting the future one pixel at a time, embracing continuous learning",
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log("Let's build something awesome!");
