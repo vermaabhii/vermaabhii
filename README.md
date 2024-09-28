@@ -17,7 +17,7 @@ class Developer:
     def __init__(self, name):
         self.name = name
         self.role = "🚀 Front-End Developer in Training"
-        self.skills = ["HTML", "CSS", "JavaScript", "Git"]
+        self.skills = ["HTML", "CSS", "JavaScript"]
 
     def info(self):
         return f"👋 Hi, I'm {self.name}. Skills: {', '.join(self.skills)}. Let's build!"
