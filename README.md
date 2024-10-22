@@ -25,4 +25,17 @@ print(abhishek.info ())
 <img src="https://camo.githubusercontent.com/66f65b624ead72f1e24e692af13a63b62b63c87be522ca42438ef2367693ecd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/01a9f1d58c499d863f0ac70c375f62112c91128d0875ca568d98cc76d4ea2e44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304c69676874726f6f6d2d3331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652532304c69676874726f6f6d266c6f676f436f6c6f723d7768697465" alt="Adobe Lightroom" data-canonical-src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&amp;logo=Adobe%20Lightroom&amp;logoColor=white" style="max-width: 100%;">
 
 
+<br>
+
+<!-- Github Stats Section -->
+<h2 align="left">⚡ Github Stats ⚡</h2>
+<p align=left>
+  <div align=left>
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaabhii&theme=react&border=61dafb&hide_border=true" target="blank" alt="vermaabhii" />
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=vermaabhii&show_icons=true&theme=react&border_color=61dafb&hide_border=true" target="blank"/>
+      
+  </div>
+</p>
+
+<br>
 
