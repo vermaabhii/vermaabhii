@@ -4,8 +4,9 @@
 </div> <br>
 <img class="project-assets-image img-responsive constrained" alt="" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
 
-<h1>Hi there 👋🏻, I'm Abhishek </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=2483F8&width=435&lines=Hi+there+👋%2C+I'm+Abhishek!;Front-End+Developer+in+Training" alt="Typing SVG">
 <h3 align="left">About Me:</h3>
+
 
 
 ```python
