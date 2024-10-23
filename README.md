@@ -30,6 +30,8 @@ print(abhishek.info ())
 
 ![snake gif](https://github.com/vermaabhii/vermaabhii/blob/output/github-snake-dark.svg)
 <br>
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=vermaabhii&theme=onedark)
 
 <!-- Github Stats Section -->
 <h2 align="left">⚡ Github Stats ⚡</h2>
