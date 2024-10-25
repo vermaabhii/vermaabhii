@@ -3,8 +3,7 @@
       <img src="https://komarev.com/ghpvc/?username=vermaabhii&label=Profile%20views&color=2483f8&style=flat" target="blank" alt="vermaabhii"/>
 </div> <br>
 <img class="project-assets-image img-responsive constrained" alt="" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=2483F8&width=435&lines=Hi+there+👋%2C+I'm+Abhishek!;Front-End+Developer+in+Training" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=1E90FF&background=0D1117&width=600&lines=Hi+there+👋,+I'm+Abhishek!;Aspiring+Front-End+Developer🚀;Hi+there+👋🏻,+I'm+Abhishek!;Aspiring+Front-End+Developer🚀;" alt="Typing SVG">
 
 <h3 align="left">About Me:</h3>
 
