@@ -34,7 +34,7 @@ print(abhishek.info ())
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermaabhii)
 <br>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophie
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vermaabhii&theme=onedark)
 
 <!-- Github Stats Section -->
