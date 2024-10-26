@@ -13,12 +13,13 @@ class Developer:
         self.name = name
         self.role = "🚀 Front-End Developer in Training"
         self.skills = ["HTML", "CSS", "JavaScript"]
+        self.bio = "🌟 Passionate about crafting beautiful, responsive web experiences!"
 
     def info(self):
-        return f"👋 Hi, I'm {self.name}. Skills: {', '.join(self.skills)}. Let's build!"
+        return f"👋 Hi, I'm {self.name}. Skills: {', '.join(self.skills)}. {self.bio} Let's build!"
 
 abhishek = Developer("Abhishek")
-print(abhishek.info ())
+print(abhishek.info())
 ```
 
 <h2 align="left" class="heading-element" dir="auto">💻 Languages and Tools:</h2>
