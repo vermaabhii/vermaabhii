@@ -39,7 +39,7 @@ print(abhishek.info())
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vermaabhii&theme=onedark)
 
 <!-- Github Stats Section -->
-<h2 align="left">⚡ Github Stats ⚡</h2>
+<h2 align="left">⚡ Github Stsats ⚡</h2>
 <p align=left>
   <div align=left>
       <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaabhii&theme=react&border=61dafb&hide_border=true" target="blank" alt="vermaabhii" />
