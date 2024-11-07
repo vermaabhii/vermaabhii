@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=1E90FF&background=0D1117&width=600&lines=Hi+there+👋,+I'm+Abhishek!;Aspiring+Front-End+Developer🚀;Hi+there+👋,+I'm+Abhishek!;Aspiring+Front-End+Developer🚀;" alt="Typing SVG">
 <h3 align="left">About Me:</h3>
 
-```python
+```python 
 class Developer:
     def __init__(self, name):
         self.name = name
