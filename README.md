@@ -39,7 +39,7 @@ print(abhishek.info())
       <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vermaabhii&theme=react&border=61dafb&hide_border=true" target="blank" alt="vermaabhii" />
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=vermaabhii&show_icons=true&theme=react&border_color=61dafb&hide_border=true" target="blank"/>
    
-  </div>
+  </div> 
 </p>
 <br>
 
