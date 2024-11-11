@@ -40,7 +40,7 @@ print(abhishek.info())
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=vermaabhii&show_icons=true&theme=react&border_color=61dafb&hide_border=true" target="blank"/>
    
   </div> 
-</p>
+</p> 
 <br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vermaabhii&theme=github-dark)
