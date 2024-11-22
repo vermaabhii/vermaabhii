@@ -29,7 +29,7 @@ print(abhishek.info())
 <img src="https://camo.githubusercontent.com/df50da671ce60e6e460ea9629c10e51a40e6ea36b59a5d0bad80df18bceac14f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465" alt="Canva" data-canonical-src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" style="max-width: 100%;">
 <br> 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vermaabhii&theme=onedark)
  
 <!-- Github Stats Section -->  
