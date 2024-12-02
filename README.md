@@ -45,6 +45,8 @@ print(abhishek.info())
 </p> 
 <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vermaabhii&theme=github-dark)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vermaabhii&theme=github-dark)
+
