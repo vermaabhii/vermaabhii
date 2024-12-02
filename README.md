@@ -47,4 +47,4 @@ print(abhishek.info())
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vermaabhii&theme=github-dark)
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
