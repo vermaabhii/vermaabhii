@@ -1,4 +1,6 @@
 name: Generate Snake Animation
+with:
+  github_token: ${{ secrets.GITHUB_TOKEN }}
 
 on:
   schedule:
