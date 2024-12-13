@@ -31,7 +31,7 @@ print(abhishek.info())
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 🏆 GitHub Trophies 
+## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vermaabhii&theme=onedark)
  
 <!-- Github Stats Section -->  
